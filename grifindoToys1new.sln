@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grifindoToys1new", "grifindoToys1new\grifindoToys1new.csproj", "{61B1D261-E32B-4AB2-AE40-2AC24F16AD45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7247CA48-F593-4912-8AF5-DEF92DFB630D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B1D261-E32B-4AB2-AE40-2AC24F16AD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B1D261-E32B-4AB2-AE40-2AC24F16AD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B1D261-E32B-4AB2-AE40-2AC24F16AD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B1D261-E32B-4AB2-AE40-2AC24F16AD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {311548E8-02B8-4275-B3E7-2889C4BFAC77}
+	EndGlobalSection
+EndGlobal
